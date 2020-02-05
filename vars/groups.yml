@@ -1,10 +1,6 @@
 ---
 aws_groups:
-  - fresno
-  - sacramento
-  - losangeles
-  - sanfrancisco
-  - indio
-  - palmsprings
-  - sandiego
-  - napa
+  - kalihi
+  - waipahu
+  - ewabeach
+  - waianae
