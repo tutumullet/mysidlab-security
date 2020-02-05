@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
-    aws_groups: "sacramento, fresno, indio"
-  - name: user2
-    aws_groups: "losangeles, sanfrancisco, napa"
-  - name: user3
-    aws_groups: "palmsprings, indio, sandiego"
+  - name: byrone
+    aws_groups: "ewabeach, kalihi, waianae"
+  - name: wayne
+    aws_groups: "ewabeach, kalihi, waianae"
+  - name: geoff
+    aws_groups: "ewabeach, kalihi, waianae"
